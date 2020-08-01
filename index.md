@@ -7,7 +7,7 @@ I work in computational complexity theory and just completed my PhD from IIT Mad
 
 **Email me :** purnata[at]cse[dot]iitm[dot]ac[dot]in
 
-## Publications
+## Publications:
 _On Lower Bounds and PIT for Parameterized Algebraic Models_, Purnata Ghosal,_PhD Thesis_.[View here.](/files/thesis.pdf)
 
 _A note on parameterized polynomial identity testing using hitting set generators_, Purnata Ghosal, B. V. Raghavendra Rao, Inf. Process. Lett. vol. 151 (2019). [View here.](/files/svgen.pdf)
