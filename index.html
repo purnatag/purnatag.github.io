@@ -3,7 +3,44 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+<div class="page">
+  <!--<h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}-->
+  <h2>About Me</h2>
+  <p>I work in computational complexity theory and just completed my PhD from IIT Madras, India. 
+     My PhD supervisor was <a href="http://www.cse.iitm.ac.in/~bvrr/">B. V. Raghavendra Rao</a> and I was a 
+     part of the vibrant <a href="http://theory.cse.iitm.ac.in/">Algorithms and Complexity Theory group</a> there. </p> 
+
+  <p><bf>Email me :</bf> purnata[at]cse[dot]iitm[dot]ac[dot]in</p>
+
+  <h2>Publications</h2>
+  <ul>
+  <li><it>On Lower Bounds and PIT for Parameterized Algebraic Models</it>, Purnata Ghosal, <it>PhD Thesis</it> 
+      submitted as part of the MS-PhD Dual Degree programme at IIT Madras, India.
+      <a href="/files/thesis.pdf">View here.</a></li>
+
+  <li><it>A note on parameterized polynomial identity testing using hitting set generators</it>, Purnata Ghosal, 
+      B. V. Raghavendra Rao, Inf. Process. Lett. vol. 151 (2019). 
+      <a href="/files/svgen.pdf">View here.</a></li>
+
+  <li><it>On Proving Parameterized Size Lower Bounds for Multilinear Algebraic Models</it>, Purnata Ghosal, 
+      B. V. Raghavendra Rao, COCOON 2019. 
+      <a href="/files/para-mlin.pdf">View here.</a>
+
+  <li><it>On Constant Depth Circuits Parameterized by Degree: Identity Testing and Depth Reduction</it>, Purnata Ghosal,
+      Om Prakash, B. V. Raghavendra Rao, COCOON 2017. 
+      <a href="/files/para-arith.pdf">View full version here.</a>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+<!--<div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -17,9 +54,9 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div>-->
 
-<div class="pagination">
+<!--<div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
@@ -34,4 +71,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div>-->
