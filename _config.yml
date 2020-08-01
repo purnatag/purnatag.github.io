@@ -8,8 +8,8 @@ highlighter:      pygments
 
 # Setup
 title:            Purnata Ghosal
-tagline:          'PhD (CS Theory), IIT Madras'
-description:      'My interests are in computational complexity theory, mainly studying polynomials.'
+tagline:          'PhD'
+description:      'PhD (CS Theory), IIT Madras'
 url:              http://purnatag.github.io
 baseurl:          /
 
