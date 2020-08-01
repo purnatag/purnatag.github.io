@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks and Workshops
+title: Talks
 ---
 
 ## List of Talks
