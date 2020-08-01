@@ -1,34 +1,30 @@
 ---
 layout: page
-title: Coursework
+title: Education
 ---
 
-<!--<p class="message">
+<p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>-->
+</p>
 
-<h2>Teaching Assistantships</h2>
-I was a Teaching Assistant for the following courses:
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-Topics in Complexity Theory (Jan-May 2020)
-Computability and Complexity (Jul-Nov 2019)
-Pseudorandomness (Jan-May 2019)
-Logic and Combinatorics in Computer Science (Jul-Nov 2018)
-Randomized Algorithms (Jan-May 2018)
-Logic and Combinatorics in Computer Science (Jul-Nov 2017)
-Pseudorandomness (Jan-May 2017)
-Advanced Data Structures and Algorithms (Jul-Nov 2016)
-Fundamentals of Data Science (Jan-May 2016)
-Advanced Theory of Computation (Jul-Nov 2015)
-Languages, Machines and Computation (Jan-May 2015)
-Computational Engineering (Jul-Nov 2014)
+There are currently two themes built on Poole:
 
-###Courses Taken
-Advanced Data Structures and Algorithms
-Mathematical Concepts in Computer Science
-Algorithmic Algebra
-Advanced Theory of Computation
-Advanced Complexity Theory
-Theory Toolkit
-Advanced Algorithms
-Probability in Computing
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
