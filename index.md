@@ -7,9 +7,9 @@ I work in computational complexity theory and just completed my PhD from IIT Mad
 
 **Email me :** purnata[at]cse[dot]iitm[dot]ac[dot]in
 
-## Publications:
+<h2>Publications so far:</h2>
 
-_A note on parameterized polynomial identity testing using hitting set generators_, Purnata Ghosal, B. V. Raghavendra Rao, Inf. Process. Lett. vol. 151 (2019). [View here.](/files/svgen.pdf)
+_A note on parameterized polynomial identity testing using hitting set generators_, Purnata Ghosal, B. V. Raghavendra Rao, Inf. Process. Lett. vol. 151 (2019). View here.
 
 _On Proving Parameterized Size Lower Bounds for Multilinear Algebraic Models_, Purnata Ghosal, B. V. Raghavendra Rao, COCOON 2019. View here.
 
