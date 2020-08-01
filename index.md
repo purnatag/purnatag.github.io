@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About Me
+title: Home
 ---
+
+##About Me
 
 I work in computational complexity theory and just completed my PhD from IIT Madras, India. My PhD supervisor was [B. V. Raghavendra Rao](http://www.cse.iitm.ac.in/~bvrr/) and I was a part of the vibrant [Algorithms and Complexity Theory group](http://theory.cse.iitm.ac.in/) there. 
 
-**Email me :** purnata[at]cse[dot]iitm[dot]ac[dot]in
+Email me : purnata[at]cse[dot]iitm[dot]ac[dot]in
 
-<h2>Publications so far:</h2>
+##Publications so far:
 
 _A note on parameterized polynomial identity testing using hitting set generators_, Purnata Ghosal, B. V. Raghavendra Rao, Inf. Process. Lett. vol. 151 (2019). View here.
 
