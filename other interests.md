@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Interests
+title: About
 ---
 
 <p class="message">
