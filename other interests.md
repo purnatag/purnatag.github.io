@@ -16,7 +16,7 @@ However, very rarely, other people make good use of my pastimes to make beautifu
 I also make a stitch or two in time (not a good joke, I know, but I must preserve the nerd joke standards!).  
 ![A recent patchwork](stitches.jpg)
 
-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 A section on reading must start with a quote on the same.  
 
@@ -26,6 +26,6 @@ A section on reading must start with a quote on the same.
 
 I have recently started loving podcasts, like [Harry Potter At Home](https://open.spotify.com/show/2JUljwaD9fNSeq8Vy3UAUp), audiobooks on Audible, and the text-to-speech android app @Voice Aloud Reader converting my ebooks into audiobooks. Find my Goodreads profile [here](https://www.goodreads.com/user/show/69306191-purnata-ghosal).
 
-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 Finally, a shameless plug of my social media accounts on [Instagram](https://www.instagram.com/thecyniccat/), [Twitter](https://twitter.com/gpurnata) and [Medium](https://medium.com/@purnatag).
