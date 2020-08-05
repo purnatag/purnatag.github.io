@@ -23,22 +23,3 @@ I was also interested, after my PhD thesis submission, to look into objects othe
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-### Recent Talks
-
-* **Aug 2019** : Lower Bounds for sums of powers of low degree univariates  
-Authors: Neeraj Kayal, Pascal Koiran, Timothée Pecatte, Chandan Saha. Presented the paper as a Complexity Theory Meet (Cotmeet) seminar at IIT Madras.
-
-* **Mar 2019** : Parameterized Lower Bounds on Multilinear Algebraic Models  
-Authors: Purnata Ghosal, B. V. Raghavendra Rao. Presented at the Workshop on Algebraic Complexity Theory (WACT) 2019.
-
-* **Jan 2019** : Parameterized Lower Bounds on Multilinear Algebraic Models  
-Authors: Purnata Ghosal, B. V. Raghavendra Rao. Presented as a Complexity Seminar at University of Saarland.
-
-* **Aug 2018** : Separating Monotone VP and VNP  
-Author: Amir Yehudayoff. Presented the paper as a Complexity Theory Meet (Cotmeet) seminar at IIT Madras.
-
-* **Jul 2017** : Constant Depth Circuits Parameterized by Degree: Identity Testing and Depth Reduction  
-Authors: Purnata Ghosal, Om Prakash, B.V Raghavendra Rao. Presented at a Theory Meet (tmeet) Seminar.
-
-* **Mar 2016** : On Derandomizing Algorithms that Err Extremely Rarely  
-Authors: Oded Goldreich, Avi Wigderson. Presented at a Complexity Theory Meet (Cotmeet) seminar, organised by the Complexity Theory group at IIT Madras.   
