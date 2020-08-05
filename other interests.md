@@ -5,7 +5,7 @@ title: Whimsy
 
 >What do dogs do on their day off?; Can't lie around – that's their job!
 
-? George Carlin
+- George Carlin
 
 I have recently started blogging, and I wrote my first technical article (aimed more towards entertainment than elightenment) on Quantum Supremacy [here](https://medium.com/@purnatag/quantum-supremacy-for-noobs-like-me-afaf9a43d5e7). 
 
