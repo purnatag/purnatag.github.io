@@ -23,3 +23,8 @@ I was also interested, after my PhD thesis submission, to look into objects othe
 
 -----------------------------------------------------------------
 
+### Recent Talks
+
+* **Aug 2019** : Lower Bounds for sums of powers of low degree univariates  
+Authors: Neeraj Kayal, Pascal Koiran, Timothée Pecatte, Chandan Saha. Presented the paper as a Complexity Theory Meet (Cotmeet) seminar at IIT Madras.
+
