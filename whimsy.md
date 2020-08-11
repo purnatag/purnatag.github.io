@@ -7,7 +7,7 @@ title: Whimsy
 
 -- George Carlin
 
-I have recently started blogging, and I wrote my first technical article (aimed more towards entertainment than elightenment) on Quantum Supremacy [here](https://medium.com/@purnatag/quantum-supremacy-for-noobs-like-me-afaf9a43d5e7). 
+I have recently started blogging, and I wrote my first technical article (aimed more towards entertainment than elightenment) on Quantum Supremacy [here](https://medium.com/@purnatag/quantum-supremacy-for-noobs-like-me-afaf9a43d5e7). I intend to continue writing such sacrilegious meme-filled articles on technical concepts, so if you are interested in that kind of stuff, please consider following me! 
 
 In general, I have too many hobbies, none of which I am particularly great at. I find this a wonderful occurence that prevents me from being biased towards any one thing :P
 
@@ -28,4 +28,4 @@ I have recently started loving podcasts, like [Harry Potter At Home](https://ope
 
 -----------------------------------------------------------------
 
-Finally, a shameless plug of my social media accounts on [Instagram](https://www.instagram.com/thecyniccat/), [Twitter](https://twitter.com/gpurnata) and [Medium](https://medium.com/@purnatag).
+Finally, a shameless plug of my social media accounts on [Instagram](https://www.instagram.com/thecyniccat/), [Twitter](https://twitter.com/gpurnata), [LinkedIn](https://www.linkedin.com/in/purnatag92/) and [Medium](https://medium.com/@purnatag).
