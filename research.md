@@ -9,7 +9,8 @@ I am an early-career researcher, and therefore I am eager to explore the realm o
 
 Studying the above question has given algebraic complexity theorists a very good view of how _powerful_ certain _kinds_ of polynomials are and the difference in _power_ between any two collections (or _classes_) of polynomials. However, recent advances have shown that other than the well-established methods of obtaining solutions to these questions, a study of the symmetries of polynomials can also be immensely useful. This is the field of _Geometric Complexity Theory_, which I find extremely interesting, though I am still learning about it.
 
-I was also interested, after my PhD thesis submission, to look into objects other than polynomials. I want to learn more about Boolean functions, functions that take binary strings as input, and output a single bit. They are used to model decision problems (for example, is the majority of 3 bits 1 or 0 ?). _Analysis of boolean functions_ is an excellent toolset to understand boolean functions, and currently I am interested in knowing more about them.
+
+[//]: # (I was also interested, after my PhD thesis submission, to look into objects other than polynomials. I want to learn more about Boolean functions, functions that take binary strings as input, and output a single bit. They are used to model decision problems (for example, is the majority of 3 bits 1 or 0 ?)._Analysis of boolean functions_ is an excellent toolset to understand boolean functions, and currently I am interested in knowing more about them.)
 
 -----------------------------------------------------------------
 

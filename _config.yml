@@ -16,6 +16,8 @@ baseurl:          /
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
+future:		  TRUE
+timezone:		  TIMEZONE
 
 #paginate:         5
 
